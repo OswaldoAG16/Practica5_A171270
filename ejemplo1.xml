@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Repss/Music/Practica5_A171270/ejemplo1.xsl"?>
+
+<?xml-stylesheet type="text/css" href="estilos.css" ?>
+
+<autos>
+	<auto>
+		<marca>AUDI</marca>
+		<precio>1200000</precio>
+	</auto>
+	<auto>
+		<marca>Mercedez</marca>
+		<precio>1600000</precio>
+	</auto>
+	<auto>
+		<marca>BMW</marca>
+		<precio>800000</precio>
+	</auto>
+</autos>
